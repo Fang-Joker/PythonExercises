@@ -1,0 +1,4 @@
+2018-11-26 16:00:31,517 - DEBUG - This is a debug info
+2018-11-26 16:00:31,517 - ERROR - This is a error info
+2018-11-26 16:00:31,517 - DEBUG - This is test1 done
+2018-11-26 16:00:31,517 - ERROR - This is test1 done

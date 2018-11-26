@@ -1,0 +1,12 @@
+C:\Users\zhong\PycharmProjects\PythonExercises\.git\objects\02\a27f5bf230551e95fb4d5d7fd11e0af755cab4
+C:\Users\zhong\PycharmProjects\PythonExercises\.git\objects\27\db6dd212be03644b0116a7cfc93f958a03ef56
+C:\Users\zhong\PycharmProjects\PythonExercises\.git\objects\75\a064660d484338c7c5a360aa730bc8ca611863
+C:\Users\zhong\PycharmProjects\PythonExercises\.git\objects\86\5611434f0cce78ec2223c6c4d52a717e8ec1c1
+C:\Users\zhong\PycharmProjects\PythonExercises\.git\objects\9b\3c8c2d5945e225f165f7f580c5b50607d1147c
+C:\Users\zhong\PycharmProjects\PythonExercises\.git\objects\de\dc18407e03f153b8c70fb61139719fd328f6be
+C:\Users\zhong\PycharmProjects\PythonExercises\.git\objects\e6\9671f0bcc719b6921d0779b2171154d0c3f7f4
+C:\Users\zhong\PycharmProjects\PythonExercises\.ipynb_checkpoints\11-文件操作-checkpoint.ipynb
+C:\Users\zhong\PycharmProjects\PythonExercises\11-test01.txt
+C:\Users\zhong\PycharmProjects\PythonExercises\11-test02.txt
+C:\Users\zhong\PycharmProjects\PythonExercises\11-test03.txt
+C:\Users\zhong\PycharmProjects\PythonExercises\11-文件操作.ipynb
